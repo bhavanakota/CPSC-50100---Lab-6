@@ -16,7 +16,7 @@ public class Exercise3 {
 		/*
 		 * i *= 2 means i = i*2
 		 * If we assume that i >= N then i = 2^k which is 2^k >= N which means k = log2(N)
-		 * This complexity would be then O(log2 N)
+		 * This complexity would be then O(log N)
 		 */
 	}
 
